@@ -1,0 +1,26 @@
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(5, 181, 132);
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  padding: 1rem;
+  width: 90vw;
+  max-width: var(--max-width);
+  text-align: center;
+}
+
+.center p,
+.center a {
+  color: #fff;
+}
+
+.center a {
+  font-weight: bold;
+  text-decoration: underline;
+}
