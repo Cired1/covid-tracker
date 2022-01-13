@@ -15,6 +15,7 @@ Puedes encontrar su demo en el siguiente enlace: [DEMO](https://trackercov-cired
 
 - [React](https://reactjs.org/)
 - [axios](https://www.npmjs.com/package/axios)
+- [react-chartjs-2](https://www.npmjs.com/package/react-chartjs-2)
 - [use-local-storage](https://www.npmjs.com/package/use-local-storage)
 - [react-icons](https://react-icons.github.io/react-icons/)
 
